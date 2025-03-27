@@ -8,5 +8,16 @@ namespace LogicaNegocio.EntidadesNegocio
 {
     public class Agencia
     {
+        public int Id { get; set; }
+        public string Nombre { get; set; }
+        public string DireccionPostal { get; set; }
+        public string Ubicacion { get; set; }
+        public Agencia(int id, string nombre, string direccionPostal, string ubicacion)
+        {
+            Id = id;
+            Nombre = nombre;
+            DireccionPostal = direccionPostal;
+            Ubicacion = ubicacion;
+        }
     }
 }
