@@ -12,15 +12,13 @@ namespace LogicaNegocio.EntidadesNegocio
         public string DireccionPostal { get; set; }
         public bool EntregaEficiente { get; set; }
 
-        public Urgente(int id,
-                       string numTracking,
+        public Urgente(string numTracking,
                        Usuario empleado,
                        Usuario cliente,
                        double pesoPaquete,
                        Estado estado,
                        string dirPostal) : 
-                       base(id,
-                            numTracking,
+                       base(numTracking,
                             empleado,
                             cliente,
                             pesoPaquete,

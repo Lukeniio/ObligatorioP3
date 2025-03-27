@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\Obligatorio\\LogicaAplicacion\\LogicaAplicacion.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\ObligatorioP3\\Obligatorio\\LogicaAplicacion\\LogicaAplicacion.csproj",
       "projectName": "LogicaAplicacion",
-      "projectPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\Obligatorio\\LogicaAplicacion\\LogicaAplicacion.csproj",
+      "projectPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\ObligatorioP3\\Obligatorio\\LogicaAplicacion\\LogicaAplicacion.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\Obligatorio\\LogicaAplicacion\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\ObligatorioP3\\Obligatorio\\LogicaAplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -15,11 +15,8 @@ namespace LogicaNegocio.EntidadesNegocio
         public double PesoPaquete { get; set; }
         public Estado Estado { get; set; }
 
-        private static int s_ultId = 0;
-
-        public Envio(int id, string numTracking, Usuario empleado, Usuario cliente, double pesoPaquete, Estado estado)
+        public Envio(string numTracking, Usuario empleado, Usuario cliente, double pesoPaquete, Estado estado)
         {
-            Id = id;
             NumTracking = numTracking;
             Empleado = empleado;
             Cliente = cliente;

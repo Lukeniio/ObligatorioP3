@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LogicaNegocio.EntidadesNegocio
 {
-    public abstract class Usuario
+    public class Usuario
     {
 
     }

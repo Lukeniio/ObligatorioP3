@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\Obligatorio\\",
+  "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\ObligatorioP3\\Obligatorio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6418FCF8-B49C-4C8C-BCF6-D833760D2C87}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lucas\\onedrive\\desktop\\programacion 3\\obligatorio\\obligatorio\\logicanegocio\\entidadesnegocio\\urgente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6418FCF8-B49C-4C8C-BCF6-D833760D2C87}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lucas\\onedrive\\desktop\\programacion 3\\obligatorio\\obligatoriop3\\obligatorio\\logicanegocio\\entidadesnegocio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6418FCF8-B49C-4C8C-BCF6-D833760D2C87}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesnegocio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6418FCF8-B49C-4C8C-BCF6-D833760D2C87}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lucas\\onedrive\\desktop\\programacion 3\\obligatorio\\obligatoriop3\\obligatorio\\logicanegocio\\entidadesnegocio\\urgente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6418FCF8-B49C-4C8C-BCF6-D833760D2C87}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesnegocio\\urgente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6418FCF8-B49C-4C8C-BCF6-D833760D2C87}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lucas\\onedrive\\desktop\\programacion 3\\obligatorio\\obligatorio\\logicanegocio\\entidadesnegocio\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6418FCF8-B49C-4C8C-BCF6-D833760D2C87}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesnegocio\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6418FCF8-B49C-4C8C-BCF6-D833760D2C87}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lucas\\onedrive\\desktop\\programacion 3\\obligatorio\\obligatoriop3\\obligatorio\\logicanegocio\\entidadesnegocio\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6418FCF8-B49C-4C8C-BCF6-D833760D2C87}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesnegocio\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6418FCF8-B49C-4C8C-BCF6-D833760D2C87}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lucas\\onedrive\\desktop\\programacion 3\\obligatorio\\obligatorio\\logicanegocio\\entidadesnegocio\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6418FCF8-B49C-4C8C-BCF6-D833760D2C87}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesnegocio\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6418FCF8-B49C-4C8C-BCF6-D833760D2C87}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lucas\\onedrive\\desktop\\programacion 3\\obligatorio\\obligatoriop3\\obligatorio\\logicanegocio\\entidadesnegocio\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6418FCF8-B49C-4C8C-BCF6-D833760D2C87}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesnegocio\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\ObligatorioP3\\Obligatorio\\LogicaNegocio\\EntidadesNegocio\\Usuario.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesNegocio\\Usuario.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\ObligatorioP3\\Obligatorio\\LogicaNegocio\\EntidadesNegocio\\Usuario.cs",
+              "RelativeToolTip": "LogicaNegocio\\EntidadesNegocio\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:54:45.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Urgente.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\Obligatorio\\LogicaNegocio\\EntidadesNegocio\\Urgente.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\ObligatorioP3\\Obligatorio\\LogicaNegocio\\EntidadesNegocio\\Urgente.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesNegocio\\Urgente.cs",
-              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\Obligatorio\\LogicaNegocio\\EntidadesNegocio\\Urgente.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\ObligatorioP3\\Obligatorio\\LogicaNegocio\\EntidadesNegocio\\Urgente.cs",
               "RelativeToolTip": "LogicaNegocio\\EntidadesNegocio\\Urgente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T23:53:37.573Z",
               "EditorCaption": ""
@@ -41,25 +58,27 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Estado.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\Obligatorio\\LogicaNegocio\\EntidadesNegocio\\Estado.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\ObligatorioP3\\Obligatorio\\LogicaNegocio\\EntidadesNegocio\\Estado.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesNegocio\\Estado.cs",
-              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\Obligatorio\\LogicaNegocio\\EntidadesNegocio\\Estado.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\ObligatorioP3\\Obligatorio\\LogicaNegocio\\EntidadesNegocio\\Estado.cs",
               "RelativeToolTip": "LogicaNegocio\\EntidadesNegocio\\Estado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T23:52:00.06Z"
+              "WhenOpened": "2025-03-25T23:52:00.06Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Envio.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\Obligatorio\\LogicaNegocio\\EntidadesNegocio\\Envio.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\ObligatorioP3\\Obligatorio\\LogicaNegocio\\EntidadesNegocio\\Envio.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesNegocio\\Envio.cs",
-              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\Obligatorio\\LogicaNegocio\\EntidadesNegocio\\Envio.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\ObligatorioP3\\Obligatorio\\LogicaNegocio\\EntidadesNegocio\\Envio.cs",
               "RelativeToolTip": "LogicaNegocio\\EntidadesNegocio\\Envio.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:14:22.241Z"
+              "WhenOpened": "2025-03-25T00:14:22.241Z",
+              "EditorCaption": ""
             }
           ]
         }

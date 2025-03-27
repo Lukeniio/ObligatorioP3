@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\Obligatorio\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj": {}
+    "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\ObligatorioP3\\Obligatorio\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\Obligatorio\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj": {
+    "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\ObligatorioP3\\Obligatorio\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\Obligatorio\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\ObligatorioP3\\Obligatorio\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj",
         "projectName": "LogicaAccesoDatos",
-        "projectPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\Obligatorio\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj",
+        "projectPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\ObligatorioP3\\Obligatorio\\LogicaAccesoDatos\\LogicaAccesoDatos.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\Obligatorio\\LogicaAccesoDatos\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\PROGRAMACION 3\\Obligatorio\\ObligatorioP3\\Obligatorio\\LogicaAccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
