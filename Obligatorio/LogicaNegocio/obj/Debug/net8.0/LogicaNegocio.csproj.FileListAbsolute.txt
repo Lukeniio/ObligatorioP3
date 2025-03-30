@@ -1,0 +1,5 @@
+C:\Users\lucas\OneDrive\Desktop\PROGRAMACION 3\Obligatorio\ObligatorioP3\Obligatorio\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Desktop\PROGRAMACION 3\Obligatorio\ObligatorioP3\Obligatorio\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Desktop\PROGRAMACION 3\Obligatorio\ObligatorioP3\Obligatorio\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Desktop\PROGRAMACION 3\Obligatorio\ObligatorioP3\Obligatorio\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Desktop\PROGRAMACION 3\Obligatorio\ObligatorioP3\Obligatorio\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.sourcelink.json
