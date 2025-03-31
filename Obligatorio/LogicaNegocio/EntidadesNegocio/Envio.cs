@@ -14,6 +14,7 @@ namespace LogicaNegocio.EntidadesNegocio
         public Usuario Cliente { get; set; }
         public double PesoPaquete { get; set; }
         public Estado Estado { get; set; }
+        public List<Comentario> Comentarios { get; set; }
 
         public Envio(string numTracking, Usuario empleado, Usuario cliente, double pesoPaquete, Estado estado)
         {
